@@ -12,7 +12,7 @@ To use this environment, you have to install softwares below.
 * (Git)
 
 # Getting Started
-1. clone this:
+1. Clone this:
 
    `git clone git@github.com:kimito/vagrant_try_rails.git`
 
@@ -20,19 +20,19 @@ To use this environment, you have to install softwares below.
 
   `cd vagrant_try_rails`
 
-3. kick vagrant environment.
+3. Kick vagrant environment.
 
   `vagrant up`
 
-4. wait a while
+4. Wait a while
 
   on my computer, it takes about 10 minutes.
 
-5. login into the environment.
+5. Login into the environment.
 
   `vagrant ssh`
 
-6. try Ruby on Rails.
+6. Try Ruby on Rails.
 
   `rails new new_application`
 
